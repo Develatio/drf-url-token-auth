@@ -6,7 +6,7 @@ HTTP parameter. The token parametter can be configured.
 
 ## Quick start
 
-1. Add "gitlab_webhook" to INSTALLED_APPS:
+1. Add "drf_url_token_auth" to INSTALLED_APPS:
 
 ```
 INSTALLED_APPS = {
