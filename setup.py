@@ -8,13 +8,13 @@ setup(
     name='drf-url-token-auth',
     version='0.1',
     packages=['drf_url_token_auth'],
-    description='Authentication scheme for django rest framework that allow to use token in a url',
+    description=
+    'Authentication scheme for django rest framework that allow to use token in a url',
     long_description=README,
     author='Develatio Technologies S.L.',
     author_email='contacto@develat.io',
-    url='https://github.com/develatio/django-tradukoj/',
+    url='https://github.com/develatio/drf-url-token-auth/',
     license='MIT',
     install_requires=[
         'Django>=2.0',
-    ]
-)
+    ])
